@@ -1,6 +1,6 @@
 Check the live demo here:
 
-simongallery.netlify.app
+[simongallery.netlify.app](simongallery.netlify.app)
 
 # Getting Started with Create React App
 
